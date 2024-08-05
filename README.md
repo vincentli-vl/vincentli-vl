@@ -27,6 +27,8 @@ Current CS Student at Western University - Actively looking for an opportunity a
 ## Backend
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.net%20-%2343853D.svg?&style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-040a61?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
