@@ -36,6 +36,7 @@ Current CS Student at Western University - Actively looking for an opportunity a
 ![SQL Server](https://img.shields.io/badge/sql-server-%2300f.svg?&style=for-the-badge&logo=sql-server)&nbsp;
 
 ## OS
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
