@@ -1,6 +1,6 @@
 ### Hi, I am Vincent Li 👋
 
-Recently graduated CS Student at Western University - Actively looking for an opportunity as a software developer. 
+<!--Recently graduated CS Student at Western University - Actively looking for an opportunity as a software developer. --> 
 
 :email: &nbsp; You can contact me by email at vincentli.dev@gmail.com. I'll try to respond as soon as I can.
 
